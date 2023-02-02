@@ -4,7 +4,30 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and Java programmer
 ---------------------------------
 
-Priyanshu Gour, I'm from Harda, MP, and I was born in August 2003. I studied in Jawahar Navodaya Vidyalaya Harda from 6th to 12th grade. It is a government sponsored institute. After finishing school, I was admitted into to the BCA with Cloud Computing programme at Sage University Bhopal , under the iNurture Education. 💡 In class 11th and 12th, I learned Python, MySql, and its connectivity. 💡 I learned C programming language and some basic DSA after high school but before college. 💡 I joined the Alpha placement programme offered by Apna College after learning C programming, and I then studied Java and advanced data structures and algorithms. 💡 I started learning web development after learning C, Java, and DSA. I then learned front-end languages like HTML, CSS,  JAVASCRIPT and REACTJS, as well as back-end languages like PHP and MySQL Database. 💡 RealTimeLocationTracking is the project I started after studying this technology, and it was created using HTML, CSS, JavaScript, PHP, MySql, and (Mapbox and Wether API) Project functionality includes entering our drop-off location, navigating to that place on the website (which displays Longitude and Latitude), and using some full-stack functionality. 💡 I'll start studying python and creating some little projects after creating projects and learning all of this technologies. 💡 I'll construct a copy of the official Amazon website's home page after learning all of this. 💡 I am building a full-stack e-commerce website called WebMart-360 after learning all of this, using the technology ReactJs and other tech for both the frontend and backend, as well as additional software.
+Priyanshu Gour, I'm from Harda, MP, and I was born in August 2003. I studied in Jawahar Navodaya Vidyalaya Harda from 6th to 12th grade. It is a government sponsored institute. After finishing school, I was admitted into to the BCA with Cloud Computing programme at Sage University Bhopal , under the iNurture Education. 
+
+
+
+
+💡 In class 11th and 12th, I learned Python, MySql, and its connectivity. 
+
+💡 I learned C programming language and some basic DSA after high school but before college. 
+
+💡 I joined the Alpha placement programme offered by Apna College after learning C programming, and I then studied Java and advanced data structures and algorithms. 
+
+💡 I started learning web development after learning C, Java, and DSA. I then learned front-end languages like HTML, CSS,  JAVASCRIPT and REACTJS, as well as back-end languages like PHP and MySQL Database. 
+
+💡 RealTimeLocationTracking is the project I started after studying this technology, and it was created using HTML, CSS, JavaScript, PHP, MySql, and (Mapbox and Wether API) Project functionality includes entering our drop-off location, navigating to that place on the website (which displays Longitude and Latitude), and using some full-stack functionality. 
+
+💡 I'll start studying python and creating some little projects after creating projects and learning all of this technologies. 
+
+💡 I'll construct a copy of the official Amazon website's home page after learning all of this. 
+
+💡 I am building a full-stack e-commerce website called WebMart-360 after learning all of this, using the technology ReactJs and other tech for both the frontend and backend, as well as additional software.
+
+
+
+
 
 * 🌍  I'm based in Inda
 * ✉️  You can contact me at [priyanshugournotes1@gmail.com](mailto:priyanshugournotes1@gmail.com)
