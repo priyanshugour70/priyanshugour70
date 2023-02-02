@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and Java programmer
 ---------------------------------
 
-Priyanshu Gour, I'm from Harda, MP, and I was born in August 2003. I studied in Jawahar Navodaya Vidyalaya Harda from 6th to 12th grade. It is a government sponsored institute. After finishing school, I was admitted into to the BCA with Cloud Computing programme at Sage University Bhopal , under the iNurture Education. 
+Priyanshu Gour, I'm from Harda, MP, and I was born in 04,August 2004. I studied in Jawahar Navodaya Vidyalaya Harda from 6th to 12th grade. It is a government sponsored institute. After finishing school, I was admitted into to the BCA with Cloud Computing programme at Sage University Bhopal , under the iNurture Education. 
 
 
 
