@@ -8,3 +8,8 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 I’m currently learning  backend web development using Java, Spring framework and Spring boot.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/priyanshugour70) [Gmail](mailto:priyanshugournotes1@gmail.com)
+
+<a href="https://github.com/priyanshugour70">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshugour70&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshugour70&theme=buefy&layout=compact" />
+</a>
