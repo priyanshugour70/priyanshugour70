@@ -4,7 +4,6 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CS student at Sage Unversity.
 - 📚 I’m currently exploring distributed system and eager to learn system design.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/priyanshugour70) [Gmail](mailto:priyanshugournotes1@gmail.com)
 <!-- - 👯 I’m looking for a software development internship. -->
